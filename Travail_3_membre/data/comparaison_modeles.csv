@@ -1,0 +1,5 @@
+Modèle,MSE,MAE,R²,Meilleurs_Paramètres
+KNN - Heating,1.0985688256821164,0.7257949225789405,0.9891656482733981,"{'metric': 'manhattan', 'n_neighbors': 3, 'weights': 'distance'}"
+KNN - Cooling,2.70032325189334,1.139171659582536,0.970042520700823,"{'metric': 'manhattan', 'n_neighbors': 5, 'weights': 'distance'}"
+ANN - Heating,6.769466077682319,1.7845509231864634,0.9332378866282044,3 couches (64-32-16)
+ANN - Cooling,645.103365439491,23.676972211480656,-6.156798987836993,3 couches (64-32-16)

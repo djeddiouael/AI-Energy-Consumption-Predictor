@@ -1,0 +1,5 @@
+Model,Best_Params,Final_MSE,Final_MAE,Final_R2
+KNN_Heating,"{'metric': 'manhattan', 'n_neighbors': 3, 'weights': 'distance'}",1.0985688256821164,0.7257949225789405,0.9891656482733981
+KNN_Cooling,"{'metric': 'manhattan', 'n_neighbors': 5, 'weights': 'distance'}",2.70032325189334,1.139171659582536,0.970042520700823
+ANN_Heating,Epochs: 150,6.769466077682319,1.7845509231864634,0.9332378866282044
+ANN_Cooling,Epochs: 20,645.103365439491,23.676972211480656,-6.156798987836993
